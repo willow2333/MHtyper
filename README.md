@@ -1,3 +1,5 @@
+
+Please move to mMHtyper[https://github.com/willow2333/mMHtyper], which is the update version of MHtyper!
 ### Overview
 
 &emsp; &emsp; MHtyper is an end-to-end pipeline for recognizing the Forensic microhaplotypes in Nanopore  sequencing data. It
