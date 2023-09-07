@@ -98,5 +98,5 @@ to get the final micro haplotype results
 &emsp;&emsp;1.Sahlin, K., Medvedev, P. Error correction enables use of Oxford Nanopore technology for reference-free transcriptome analysis. Nat Commun 12, 2 (2021). https://doi.org/10.1038/s41467-020-20340-8 Link.
 
 
-Email: Yiping Hou (forensic@scu.edu.cn), Zheng Wang (wangzhengtim@scu.edu.cn), Liu Qin (liu.qin@qitantech.com)
+Email: Yiping Hou (forensic@scu.edu.cn), Zheng Wang (wangzhengtim@scu.edu.cn), Liu Qin (ql_willow@163.com)
 
