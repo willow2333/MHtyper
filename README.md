@@ -1,5 +1,5 @@
 
-<font size=10> **Please move to mMHtyper[https://github.com/willow2333/mMHtyper], which is the update version of MHtyper!** </font>
+## Please move to mMHtyper[https://github.com/willow2333/mMHtyper], which is the update version of MHtyper!
 
 ### Overview
 
