@@ -1,5 +1,7 @@
 
-<font color="red" size=7> **Please move to mMHtyper[https://github.com/willow2333/mMHtyper], which is the update version of MHtyper!** </font>
+<font color=red size=7> **Please move to mMHtyper[https://github.com/willow2333/mMHtyper], which is the update version of MHtyper!** </font>
+<span style="color:red; font-size:30px;"> **Please move to [mMHtyper](https://github.com/willow2333/mMHtyper), which is the updated version of MHtyper!** </span>
+
 ### Overview
 
 &emsp; &emsp; MHtyper is an end-to-end pipeline for recognizing the Forensic microhaplotypes in Nanopore  sequencing data. It
