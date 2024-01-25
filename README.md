@@ -1,6 +1,5 @@
 
-<font color=red size=7> **Please move to mMHtyper[https://github.com/willow2333/mMHtyper], which is the update version of MHtyper!** </font>
-<span style="color:red; font-size:30px;"> **Please move to [mMHtyper](https://github.com/willow2333/mMHtyper), which is the updated version of MHtyper!** </span>
+<font size=10> **Please move to mMHtyper[https://github.com/willow2333/mMHtyper], which is the update version of MHtyper!** </font>
 
 ### Overview
 
