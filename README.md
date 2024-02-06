@@ -1,5 +1,5 @@
 
-## Please move to mMHtyper[https://github.com/willow2333/mMHtyper], which is the update version of MHtyper!
+## Please move to mMHtyper[https://github.com/willow2333/mMHtyper], which is the update version of the MHtyper!
 
 ### Overview
 
